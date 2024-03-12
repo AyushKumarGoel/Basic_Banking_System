@@ -4,7 +4,8 @@
 
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://AyushKumarGoel.github.io/Basic_Banking_System/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ayushkumargoel/)-->
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ayushkumargoel/) 
+-->
 
 ## Website Preview
 ### Home Page
